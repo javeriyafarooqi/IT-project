@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>candidate details</title>
+</head>
+<body>
+<h1>Nominee_1</h1>
+<p>Name:abc</p>
+<p>sec:01</p>
+<p>cgpa:8</p>
+
+<h1>Nominee_2</h1>
+<p>Name:xyz</p>
+<p>sec:01</p>
+<p>cgpa:8</p>
+
+<h1>Nominee_3</h1>
+<p>Name:rst</p>
+<p>sec:01</p>
+<p>cgpa:8</p>
+</body>
+</html>
